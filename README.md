@@ -1,1 +1,1 @@
-# python_surgaev
+# Repository for Python training by Surgaev.
